@@ -20,9 +20,6 @@ tutte le informazioni disponibili sul veicolo che lo sta occupando.
 |            |            |   Tempi    |
 |------------|------------|------------|
 
-Numero di porte
-
---
 ### DOMANDE
 - Che differenza c'è ad avere Print di MotorVehicle virtual o non virtual?
 - Togliere Print dai figli, e aggiungere un metodo abstract PrintDetails su MotorVehicle
